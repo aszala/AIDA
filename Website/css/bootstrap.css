@@ -10257,10 +10257,10 @@ a.text-dark:hover, a.text-dark:focus {
 /* Style the header with a grey background and some padding */
 .header {
   overflow: scroll;
-  background-color: #000000;
   padding: 12px 12px;
   align-items: center;
   justify-content: center;
+  background-image: linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0));
 }
 
 /* Style the header links */
