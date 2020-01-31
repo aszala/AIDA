@@ -20,6 +20,7 @@
   justify-content: center;
   display: block;
   position: relative;
+    height: 100%;
 }
 
 /* Style the header links */
@@ -73,7 +74,7 @@
 
 .header-container {
   position: absolute;
-  transform: translate(0%, -600px);
+  transform: translate(0%, -800px);
   width: 100%;
   background-image: linear-gradient(
     rgba(0, 0, 0, 0.8) 80%,
@@ -87,8 +88,7 @@
   background-image: url(./GrabberPic.jpg);
 
   /* Set a specific height */
-  height: 600px;
-  width: auto;
+  height: 800px;
   align-self: center;
   padding: 0px;
   /* Position and center the image to scale nicely on all screens */
@@ -124,4 +124,19 @@
   width: 100%;
   position: absolute;
   transform: translateY(-180%);
+}
+
+.video-container {
+  position: relative;
+    text-align: center;
+}
+
+.video-container hr { 
+    border: 2px solid black;
+}
+
+.video-container p {
+    font-family: "Abel", sans-serif;
+    font-stretch: ultra-expanded;
+    font-size: 30px;
 }
