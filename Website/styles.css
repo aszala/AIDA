@@ -148,5 +148,21 @@
     font-size: 30px;
 }
 
+.btn-danger {
+    background: white;
+    border: white;
+    width: 500px;  
+    height: 100px;
+    color: black;
+   font-family: "Abel", sans-serif;
+   font-size: 30px;
+   text-align: center;
+   padding: 30px;
+ 
+    }
+
+.btn-danger:hover {
+    background: rgb(62, 62, 62);
+}
 
   
