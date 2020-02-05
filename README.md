@@ -1,4 +1,4 @@
 # AIDA
 AIDA
 
-* David's First Commit
+3D Asset Generation
