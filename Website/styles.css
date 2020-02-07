@@ -17,12 +17,12 @@
 /* Style the header with a grey background and some padding */
 .header {
   overflow: scroll;
+  text-align: center;
   padding: 0px 0px;
   align-items: center;
   justify-content: center;
   position: relative;
-  height: 100%;
-  width: width;
+
   text-align: center;
 }
 
