@@ -171,5 +171,8 @@
 .btn-danger:hover {
     background: rgb(62, 62, 62);
 }
+.btn-danger:visited {
+  background: white;
+}
 
   
